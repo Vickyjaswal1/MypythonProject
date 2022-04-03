@@ -1,0 +1,18 @@
+{
+
+"params":
+
+    {
+        "server":"True",
+        "local_server" : "mysql://root:@localhost/myanime" ,
+        "prod_server" : "mysql://root:@localhost/myanime",
+        "blog_name": "Me , Vikrant & Sensie",
+        "fb_url":"https://facebook.com/anime" ,
+        "tw_url":"https://twitter.com/anime",
+        "gh_url":"https://github.com/Vickyjaswal1",
+        "ig_url":"https://instagram.com/anime"
+        
+
+    }
+
+}
